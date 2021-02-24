@@ -1,3 +1,4 @@
+<html>
 <h1>Programação para Iniciantes</h1>
 <p>Este repositório tem o objetivo de indicar materiais que possam contribuir 
     com o desenvolvimento daqueles que iniciam os estudos em programação; 
@@ -50,3 +51,4 @@
              target="_blank">Explore o Geeks for Geeks</a>
         </li>
     </ul>
+</html>
